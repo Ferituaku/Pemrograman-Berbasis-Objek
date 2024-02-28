@@ -17,6 +17,6 @@ public class PrismaSegitiga {
     }
 
     public double hitungLuasPermukaan(){
-        return 2 * alas.hitungLuas() + Math.sqrt((alas.getAlas() * alas.getAlas()) + (alas.getTInggiSegitiga() * alas.getTInggiSegitiga()))* this.tinggiPrisma * 3;
+        return 2 * alas.hitungLuas() + Math.sqrt((alas.getAlas() * alas.getAlas()) + (alas.getTInggiSegitiga() * alas.getTInggiSegitiga()))* this.tinggiPrisma * 2 + alas.getAlas() * this.tinggiPrisma;
     }
 }
