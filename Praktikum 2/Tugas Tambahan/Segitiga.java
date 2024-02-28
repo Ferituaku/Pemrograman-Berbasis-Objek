@@ -1,3 +1,8 @@
+//Nama: Al Ferro Putra Yusanda
+//NIM: 24060122140164
+//Nama File: Segitiga.java
+//Desc: Fungsi method dan atribut yang menyusun segitiga (hitung luas alas)
+
 public class Segitiga {
     private double alas;
     private double tinggi;
