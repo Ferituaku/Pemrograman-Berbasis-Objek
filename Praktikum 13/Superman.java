@@ -4,7 +4,7 @@
 /*Nama File : Superman.java                 */
 
 
-public class Superman {
+public class Superman extends Kryptonian {
 
     public String nama;
 
