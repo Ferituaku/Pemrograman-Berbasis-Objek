@@ -1,7 +1,8 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
+/*Nama      : Al Ferro Putra Yusanda        */
+/*Nim       : 24060122140164                */
+/*Tanggal   : 4 Juni 2024                   */
+/*Nama File : MysqlUtility.java             */
+
 package jdbc.utilities;
 import java.sql.*;
 
